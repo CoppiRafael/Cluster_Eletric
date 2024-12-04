@@ -1,4 +1,4 @@
-https://clustereletricalgorithm.streamlit.app/
+
 
 # Projeto de Machine Learning: Clusterização de Clientes por Consumo de Energia
 
@@ -86,6 +86,7 @@ O conjunto de dados contém informações sobre o consumo de energia em diferent
 
 ## Implantação
 Criamos um aplicativo interativo utilizando **Streamlit**.  
+- [Link do app](https://clustereletricalgorithm.streamlit.app/)
 
 ### Funcionalidades do App:
 1. **Upload de Arquivo:** O usuário pode carregar seu próprio dataset.  
